@@ -1,5 +1,7 @@
 # Social Proof Badge Block for Shopify
-
+<p align="center">
+  <img src="./banner.png" alt="Social Proof Badge demo" width="650" />
+</p>
 A lightweight Liquid **snippet** and **schema configuration** that displays overlapping customer avatars, a pill‑shaped badge with a dynamic count (optionally with a check‑mark), and a customizable phrase — perfect for boosting trust next to your product title.
 
 ## Prerequisites
